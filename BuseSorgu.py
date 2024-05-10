@@ -41,15 +41,15 @@ green = Fore.GREEN
 
 STATTIK_AILE_URL = "http://45.95.65.175/api/aile/api.php"
 STATIC_ADSOYAD_URL = "http://45.95.65.175/api/adsoyad/api.php"
-STATIC_USERAGENT = "Buse sorgu sistemi
+STATIC_USERAGENT = "Myt sorgu sistemi"
 
 
 def ToolHakkında():
     str_data = f"""
 {red}>> HAKKINDA:
-Bu tool @Buseben Tarafından yazılmıştır sorumluluk kabul etmiyorum 
+Bu tool @Meyit47 Tarafından yazılmıştır sorumluluk kabul etmiyorum 
 
-Telegram Kanalımız:https://t.me/Busetermux.
+Telegram Kanalımız:https://t.me/MytUpdate
 {reset}"""
     print(str_data)
 
@@ -69,11 +69,11 @@ def PrintBanner():
     str_data = f"""{red}
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ▀ ▀
-▀ B U S E   ▀
+▀ M Y T ₺   ▀
 ▀ ▀
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀         
                                           
-            {blue}Saygılarla iyi sorgular @Buseben.
+            {blue}Saygılarla iyi sorgular @Meyit47
         {reset}"""
     print(str_data)
 
