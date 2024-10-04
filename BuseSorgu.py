@@ -252,3 +252,4 @@ while True:
         EroorPrinter("Bilinmeyen işlem isteği")
         WaitUserKeys()
         continue
+.
